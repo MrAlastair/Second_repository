@@ -1,0 +1,8 @@
+wow
+wow pull
+
+git gui
+
+git reset
+
+git revert
