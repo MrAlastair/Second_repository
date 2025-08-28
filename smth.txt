@@ -1,8 +1,12 @@
 wow
 wow pull
 
+<<<<<<< HEAD
 git gui
 
 git reset
 
 git revert
+=======
+git gui
+>>>>>>> 7f2f1415fde5be611ac2e65d1b9686a37160845d
